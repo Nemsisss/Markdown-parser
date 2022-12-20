@@ -1,0 +1,17 @@
+search-shell-m1
+search-shell-x86
+search-shell.o
+util.o
+webpage.o
+.vscode
+mdparser-tests
+md_parser.o
+cmdhandler.o
+combiners.o
+handler.o
+search-shell
+searcheng.o
+searchui.o
+txt_parser.o
+util.o
+webpage.o
